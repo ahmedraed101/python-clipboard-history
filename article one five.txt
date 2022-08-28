@@ -1,0 +1,14 @@
+F:\sectionmint\IT-CS\programming\python\work\courses\10-python-projects-for-beginners\Code\clipboard-history>python clipboard-history-3.py --name "article one five"
+
+------------------------------------------------------
+
+F:\sectionmint\IT-CS\programming\python\work\courses\10-python-projects-for-beginners\Code\clipboard-history>python clipboard-history.py --name "article one five"
+(5, 'OpenClipboard', 'Access is denied.')
+unable to access clipboard
+
+------------------------------------------------------
+
+unable to access clipboard
+
+------------------------------------------------------
+

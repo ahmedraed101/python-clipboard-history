@@ -1,0 +1,18 @@
+OSError: [Errno 22] Invalid argument: 'data-3-2022-08-24 06:57:58.txt'
+
+------------------------------------------------------
+
+F:\sectionmint\IT-CS\programming\python\work\courses\10-python-projects-for-beginners\Code\clipboard-history>python clipboard-history-3.py --time
+
+------------------------------------------------------
+
+F:\sectionmint\IT-CS\programming\python\work\courses\10-python-projects-for-beginners\Code\clipboard-history>python clipboard-history-3.py --name "article one five"
+
+------------------------------------------------------
+
+File "clipboard-history-3.py", line 7, in store_data
+    with open(filename + ".txt", "a+") as file:
+OSError: [Errno 22] Invalid argument: 'data-3-2022-08-24 06:57:58.txt'
+
+------------------------------------------------------
+
